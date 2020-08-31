@@ -25,6 +25,6 @@ int main()
 		if(prime[i]==true)
 		count++;
 	}
-    cout<<count;
+    cout<<(count*(count+1)/2);
 	
 }
