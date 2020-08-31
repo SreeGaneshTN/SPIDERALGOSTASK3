@@ -6,9 +6,9 @@
 using namespace std;
 #define ll long long
 
-#Logic:Using a Min-heap Priority Queue.Store the brick strength in a min heap priority Queue
-#Loop till the queue size is greater than n,take the top element,pop it,again take the top element,pop it and push their sum
-#answer will be top of the Queue
+//Logic:Using a Min-heap Priority Queue.Store the brick strength in a min heap priority Queue
+//Loop till the queue size is greater than n,take the top element,pop it,again take the top element,pop it and push their sum
+//answer will be top of the Queue
 
 
 int main()

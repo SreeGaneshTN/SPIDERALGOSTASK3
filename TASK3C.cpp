@@ -3,8 +3,8 @@
 
 using namespace std;
 
-#Logic:Basically we need to find number of prime numbers less than n
-#Answer is summation of 1 to numberofprimes(count)
+//Logic:Basically we need to find number of prime numbers less than n
+//Answer is summation of 1 to numberofprimes(count)
 int main()
 {
 	long  n;
@@ -25,6 +25,6 @@ int main()
 		if(prime[i]==true)
 		count++;
 	}
-    cout<<(count*(count+1))/2;
+    cout<<count;
 	
 }

@@ -2,8 +2,8 @@
 using namespace std;
 
 
-#Logic: got input integer as string,found Sum,again converted to string and count++ 
-#run a loop untill length of string is 1 and print the count
+//Logic: got input integer as string,found Sum,again converted to string and count++ 
+//run a loop untill length of string is 1 and print the count
 
 string ToString(int sum) 
 { 
